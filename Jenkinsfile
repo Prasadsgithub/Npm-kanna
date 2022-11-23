@@ -1,5 +1,5 @@
 ipeline {
-    agent { label 'NODE'}
+    agent any
     options {
         timeout(time: 1, unit: 'HOURS')
     }
